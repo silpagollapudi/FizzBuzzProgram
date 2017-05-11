@@ -1,0 +1,8 @@
+/Users/silpagollapudi/Projects/FizzBuzzProgram/FizzBuzzProgram/bin/Debug/netstandard1.4/FizzBuzzProgram.deps.json
+/Users/silpagollapudi/Projects/FizzBuzzProgram/FizzBuzzProgram/bin/Debug/netstandard1.4/FizzBuzzProgram.dll
+/Users/silpagollapudi/Projects/FizzBuzzProgram/FizzBuzzProgram/bin/Debug/netstandard1.4/FizzBuzzProgram.pdb
+/Users/silpagollapudi/Projects/FizzBuzzProgram/FizzBuzzProgram/obj/Debug/netstandard1.4/FizzBuzzProgram.csprojResolveAssemblyReference.cache
+/Users/silpagollapudi/Projects/FizzBuzzProgram/FizzBuzzProgram/obj/Debug/netstandard1.4/FizzBuzzProgram.csproj.CoreCompileInputs.cache
+/Users/silpagollapudi/Projects/FizzBuzzProgram/FizzBuzzProgram/obj/Debug/netstandard1.4/FizzBuzzProgram.AssemblyInfo.cs
+/Users/silpagollapudi/Projects/FizzBuzzProgram/FizzBuzzProgram/obj/Debug/netstandard1.4/FizzBuzzProgram.dll
+/Users/silpagollapudi/Projects/FizzBuzzProgram/FizzBuzzProgram/obj/Debug/netstandard1.4/FizzBuzzProgram.pdb
