@@ -3,10 +3,7 @@ namespace FizzBuzz
 {
 	public static class Program
 	{
-		static void Main(string[] args)
-		{
-			printout(1, 100, 3, 5, "Fizz", "Buzz");
-		}
+		
 		static int printout(int begRange, int endRange, int iDiv1, int iDiv2, string sOut1, string sOut2)
 		{
 			// Check if the inputs are valid
